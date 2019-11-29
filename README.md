@@ -13,5 +13,5 @@ RUNNING FROM ECLIPSE
 9. Click "Run"
 
 RUNNING FROM .JAR FILE
-1.Inside the 1_code folder, navigate to the "target" folder
+1. Navigate inside the code folder and then the run folder
 2. Click on "Pokemon-Text-Adventure-1.0.0.jar"
